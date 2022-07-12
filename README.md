@@ -1,6 +1,6 @@
 ## Hello, I'm Afonso 👋
 
-- 📚 Studying Web-development
+- 📚 Learning Web-development
 - 👨‍🎓 Studying Computer engineering student at Universidade Federal do Espírito Santo
 
 <div align="center">
