@@ -1,7 +1,7 @@
 ## Hello, I'm Afonso 👋
 
-- 🔥 Atualmente estudando Js
-- 👨‍🎓 Cursando engenharia da computação na UFES(Universidade Federal do Espírito Santo)
+- 📚 Studying Web-development
+- 👨‍🎓 Studying Computer engineering student at Universidade Federal do Espírito Santo
 
 <div align="center">
   <a href="https://github.com/AfonsoSalvador">
