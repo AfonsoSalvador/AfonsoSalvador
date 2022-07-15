@@ -1,7 +1,7 @@
 ## Hello, I'm Afonso 👋
 
 - 📚 Learning Web-development
-- 👨‍🎓 Studying Computer engineering student at Universidade Federal do Espírito Santo
+- 👨‍🎓 Studying Computer engineering at Universidade Federal do Espírito Santo
 
 <div align="center">
   <a href="https://github.com/AfonsoSalvador">
