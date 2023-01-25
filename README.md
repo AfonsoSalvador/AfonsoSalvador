@@ -23,7 +23,11 @@
   <a href="../../../?tab=repositories&q=&type=&language=c&sort=" target="_blank">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
   <a/>
-  
+      
+  <a href="../../../?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> 
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <a/>
+    
   <a href="../../../?tab=repositories&q=&type=&language=python&sort=" target="_blank">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <a/>
@@ -36,12 +40,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <a/>
     
-  <a href="../../../?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> 
-  <img align="center" alt="CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a/>
-    
   <a href="../../../?tab=repositories&q=&type=&language=html&sort=" target="_blank"> 
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <a/>
     
   <a href="https://github.com/AfonsoSalvador">
