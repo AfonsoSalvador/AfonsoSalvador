@@ -36,8 +36,12 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <a/>
     
+  <a href="../../../?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> 
+  <img align="center" alt="CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a/>
+    
   <a href="../../../?tab=repositories&q=&type=&language=html&sort=" target="_blank"> 
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <a/>
     
   <a href="https://github.com/AfonsoSalvador">
@@ -48,5 +52,7 @@
 <a href="https://github.com/AfonsoSalvador">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </a>
+    
+    
   
 
