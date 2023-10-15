@@ -8,7 +8,7 @@
   </b>  
 </h1>
 
-- 📚 Learning Web-development
+- 📚 Diving into Machine Learning
 - 👨‍🎓 Studying Computer engineering at Universidade Federal do Espírito Santo
 
 <div align="center">
